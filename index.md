@@ -7,7 +7,9 @@ title: License Visualization Assignment
 
 ## Plot 1
 
+
 <iframe src="plot1.html" width="100%" height="500" frameborder="0"></iframe>
+
 
 This chart shows the overall distribution of different license types in the dataset. The goal is to get a quick sense of which license types are more common and how they compare to each other.
 
@@ -21,7 +23,9 @@ In terms of data transformations, the chart uses aggregation to count how many r
 
 ## Plot 2
 
+
 <iframe src="plot2.html" width="100%" height="500" frameborder="0"></iframe>
+
 
 This chart shows the distribution of the top license types for a selected year. It helps users see how the most common license types change over time by focusing on one year at a time.
 
